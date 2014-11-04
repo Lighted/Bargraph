@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Statistics>
+    <statisticNode>
+        <statisticID>1</statisticID>
+        <statisticType>按压力级别统计总长：357.6（单位：公里）</statisticType>
+        <statisticName>柱状图</statisticName>
+		<statistic>
+		    <statisticKey>A</statisticKey>
+			<statisticKeyValue>39.7</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>B</statisticKey>
+			<statisticKeyValue>65.2</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>C</statisticKey>
+			<statisticKeyValue>111.5</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>D</statisticKey>
+			<statisticKeyValue>59.2</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>E</statisticKey>
+			<statisticKeyValue>80.9</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>F</statisticKey>
+			<statisticKeyValue>0.5</statisticKeyValue>
+		</statistic>
+		<statistic>
+		    <statisticKey>G</statisticKey>
+			<statisticKeyValue>0.6</statisticKeyValue>
+		</statistic>
+        <statisticInfo>统计数据暂时没有说明</statisticInfo>
+    </statisticNode>
+</Statistics>
